@@ -9,12 +9,17 @@
     "tauri": "tauri"
   },
   "dependencies": {
+    "@stitches/react": "^1.2.8",
     "@tauri-apps/api": "^1.0.1",
-    "preact": "^10.5.15"
+    "preact": "^10.5.15",
+    "react-textarea-autosize": "^8.3.4"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.1.5",
     "@tauri-apps/cli": "^1.0.0",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.3",
     "typescript": "^4.5.4",
     "vite": "^2.9.9"
   }
